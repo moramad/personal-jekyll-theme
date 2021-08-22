@@ -42,7 +42,7 @@ favicon: "/img/favicon.ico"
 # black-favicon: "/img/black-lab-glass.ico"
 logo: "/img/mochamad.png" # leave blank if you don't want a logo
 
-background-img: "../img/intro-bg.jpg"
+background-img: "../img/bg.jpg"
 
 ##############################
 # Dynamic Text on the Header #
@@ -56,8 +56,8 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
+  - text: "I'm a fast learner. I may not run as fast as I used to, but I think I still learn as fast. | Carl Lewis |"
+  - text: "Welcome to my page"
 
 me-img: "/img/pas_photo.jpg"
 
@@ -91,7 +91,7 @@ apple-status-bar-style: "black"
 # Web app mode #
 ################
 
-web-app-mode: True
+web-app-mode: False
 
 # Icons for Web App mode
 
@@ -133,11 +133,25 @@ syntax-highlight: True
 
 events:
   - image: "/img/timeline/spidertocat.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
-  - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
+    date: "March 2021 - Today"
+    description: "IT Planning & Architecture"
+    description_detail: "Research on Permissioned Blockchain Framework, architecture review, and implementing IoT"                  
+  - image: "/img/timeline/one_heart.png"
+    date: "Jan 2020 - March 2021"
+    description: "System Analyst"
+    description_detail: "As a lead and managing some projects, developing web application, mobile applications, and IoT apps" 
+  - image: "/img/timeline/one_heart.png"
+    date: "Jan 2018 - Dec 2019"
+    description: "Software Engineer"
+    description_detail: "As a lead and researching on Internet of Things Framework, developing IoT Apps"
+  - image: "/img/timeline/one_heart.png"
+    date: "Jan 2015 - Dec 2017"
+    description: "Server Engineer"
+    description_detail: "Provide and maintain Virtual/Physical Linux & Windows servers for user needs"
+  - image: "/img/timeline/one_heart.png"
+    date: "June 2014 - Dec 2014"
+    description: "IT Training for Analyst Program"
+    description_detail: "One semester program to regenerate well-prepared IT Analyst/Engineer"
 
 # First image of the Timeline
 
@@ -173,6 +187,8 @@ social:
   #   url: "https://facebook.com/"
   - title: "twitter"
     url: "https://twitter.com/moramadh"
+  - title: "instagram"
+    url: "https://instagram.com/moramadh"
   - title: "linkedin"
     url: "https://www.linkedin.com/in/mochamadramadhan92/"
   - title: "github"
